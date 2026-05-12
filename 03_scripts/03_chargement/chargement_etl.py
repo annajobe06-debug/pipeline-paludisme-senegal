@@ -21,10 +21,10 @@ print("="*60)
 
 params = urllib.parse.quote_plus(
     "DRIVER={ODBC Driver 17 for SQL Server};"
-    "SERVER=ANNA\\SQLEXPRESS;"
-    "DATABASE=paludisme_senegal;"
-    "UID=pipeline_user;"
-    "PWD=paludisme;"
+    f"SERVER={os.getenv('DB_SERVER', 'ANNA\\SQLEXPRESS')};"
+    f"DATABASE={os.getenv('DB_NAME', 'paludisme_senegal')};"
+    f"UID={os.getenv('DB_USER')};"
+    f"PWD={os.getenv('DB_PASSWORD')};"
     "TrustServerCertificate=yes;"
 )
 engine = create_engine(f"mssql+pyodbc:///?odbc_connect={params}")
