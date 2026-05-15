@@ -78,6 +78,7 @@ Décisionnelle, BEM Dakar (2025-2026).
 
 ## Structure du projet
 
+```
 ├── 03_scripts/
 │   ├── 02_transformation/
 │   │   ├── 01_nettoyage.py
