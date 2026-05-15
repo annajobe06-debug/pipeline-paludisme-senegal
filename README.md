@@ -56,7 +56,7 @@ Décisionnelle, BEM Dakar (2025-2026).
 
 **Analyse Régionale — disparités géographiques**
 
-![Analyse Régionale](07_outputs/dashboard_analyse_regionale.png)
+![Analyse Régionale](07_outputs/dashboard_vue_regionale.png)
 
 **Vue Préventive — programmes de prévention**
 
