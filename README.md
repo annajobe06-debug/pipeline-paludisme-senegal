@@ -15,9 +15,6 @@ internationales, modélise une base SQL Server en schéma en
 flocon, produit un tableau de bord Power BI interactif et
 prédit l'incidence à l'horizon 2030 avec Prophet.
 
-Projet de fin d'études — Bachelor Statistique et Informatique
-Décisionnelle, BEM Dakar (2025-2026).
-
 ---
 
 ## Stack technologique
