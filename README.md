@@ -69,7 +69,7 @@ prédit l'incidence à l'horizon 2030 avec Prophet.
 
 ## Schéma en flocon — base paludisme_senegal
 
-![Schéma en flocon](07_outputs/schema_flocon_paludisme.png)
+![Schéma en flocon](07_outputs/Schema_flocon.png)
 
 ---
 
