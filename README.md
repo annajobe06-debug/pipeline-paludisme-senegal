@@ -117,5 +117,4 @@ python 03_scripts/03_chargement/chargement_etl.py
 python 06_ml_models/01_prophet_incidence.py
 ```
 
-## Auteure
-Anna Jobe
+
